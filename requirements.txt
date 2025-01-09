@@ -1,6 +1,7 @@
 streamlit
 crewai
 langchain
+langchain_community
 openai
 requests
 matplotlib
